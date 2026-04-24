@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic-streams-replication-manager</title>
+    <defs>
+        <linearGradient x1="1.25979805%" y1="84.8298122%" x2="90.251802%" y2="20.5866711%" id="linearGradient-1">
+            <stop stop-color="#00A3AF" offset="0%"></stop>
+            <stop stop-color="#2BD2D4" offset="21.8306507%"></stop>
+            <stop stop-color="#FFA31A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="srm-logo" transform="translate(3.000000, 2.000000)">
+            <polygon id="Polygon" fill="url(#linearGradient-1)" points="8.99847999 0 17.9708601 5 17.9708601 15 8.99847999 20 0.0260999207 15 0.0260999207 5"></polygon>
+            <path d="M13.2399256,14.2629108 L13.2399256,15.6723944 L9.00820802,18.0306103 L4.77649041,15.6723944 L4.77649041,14.2629108 L9.00820802,16.6210329 L13.2399256,14.2629108 Z M9.00820807,5.28638498 L13.2399257,7.657277 L13.2399257,12.399061 L9.00820807,14.7699531 L4.77649046,12.399061 L4.77649046,7.657277 L9.00820807,5.28638498 Z M9.00820807,6.69586854 L6.03429762,8.36197183 L6.03429762,11.6942723 L9.00820807,13.3603756 L11.9820218,11.6942723 L11.9820218,8.36197183 L9.00820807,6.69586854 Z M6.06393402,3.61502347 L7.32663965,4.32084507 L3.06960036,6.69305164 L3.06953173,11.4107981 L1.80497776,10.6978404 L1.80497776,5.98835681 L6.06393402,3.61502347 Z M11.9523448,3.61502347 L16.2113864,5.98835681 L16.211301,10.68723 L14.9466498,11.3924883 L14.9467184,6.69305164 L10.6895419,4.32084507 L11.9523448,3.61502347 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Polygon-Copy-2" fill="#000000" opacity="0.503580729" style="mix-blend-mode: soft-light;" points="17.9739444 5.01554247 17.9708601 15 9.00642837 20 0.0389123459 15 0.0389123459 5 8.99845404 10.0310849"></polygon>
+            <polygon id="Polygon-Copy" fill="#FFFFFF" opacity="0.500395275" style="mix-blend-mode: soft-light;" points="9.00156433 0 17.9739444 5 9.00156433 10.0310849 0.0291842594 5"></polygon>
+            <polygon id="Polygon-Copy-4" fill="#FFFFFF" opacity="0.252418155" style="mix-blend-mode: soft-light;" points="17.9708601 15 9.01129241 20 9.00156433 10.0310849 17.9739444 5.01554247"></polygon>
+        </g>
+    </g>
+</svg>

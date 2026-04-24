@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic-schema-registry</title>
+    <defs>
+        <linearGradient x1="0.142653352%" y1="50.0086207%" x2="107.003284%" y2="50.0086207%" id="linearGradient-1">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-117.54856%" y1="50.0096581%" x2="242.029471%" y2="50.0096581%" id="linearGradient-2">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-189.194017%" y1="50.0048342%" x2="170.384014%" y2="50.0048342%" id="linearGradient-3">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-46.3273052%" y1="50.0048342%" x2="313.250726%" y2="50.0048342%" id="linearGradient-4">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-117.54856%" y1="50%" x2="242.029471%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-92.6546104%" y1="50%" x2="626.501451%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-478.388033%" y1="50%" x2="240.768029%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-117.54856%" y1="49.9935509%" x2="242.029471%" y2="49.9935509%" id="linearGradient-8">
+            <stop stop-color="#499DD4" offset="1%"></stop>
+            <stop stop-color="#4CA0CA" offset="10%"></stop>
+            <stop stop-color="#55A6AE" offset="26%"></stop>
+            <stop stop-color="#63B182" offset="46%"></stop>
+            <stop stop-color="#68B573" offset="53%"></stop>
+            <stop stop-color="#76B46A" offset="57%"></stop>
+            <stop stop-color="#ADAF46" offset="77%"></stop>
+            <stop stop-color="#CFAC2F" offset="92%"></stop>
+            <stop stop-color="#DCAB27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-logos/cloudera/schema-registry" fill-rule="nonzero">
+            <g id="ic-schema-registry" transform="translate(3.000000, 2.000000)">
+                <path d="M8.98271523,0 L0,5 L0,15 L8.98271523,20 L17.9660265,15 L17.9660265,5 L8.98271523,0 Z M16.5230464,14.1896552 L16.5230464,14.1994253 L8.98271523,18.3948276 L1.44298013,14.1994253 L1.44298013,5.8045977 L8.98271523,1.6091954 L16.5230464,5.8045977 L16.5230464,14.1896552 Z" id="Shape" fill="url(#linearGradient-1)" opacity="0.9"></path>
+                <polygon id="Path" fill="url(#linearGradient-2)" opacity="0.9" points="8.98271523 5.80172414 11.6409934 4.32241379 11.6409934 4.31896552 8.98271523 2.83908046 8.97139073 2.83275862 6.30178808 4.31896552 6.30178808 4.32241379 8.97139073 5.80804598"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-3)" opacity="0.9" points="11.6409934 5.53793103 10.1270861 6.38103448 10.1270861 6.38390805 11.6409934 7.22701149 12.7966887 7.87011494 12.7966887 7.89137931 12.7966887 9.09252874 12.7966887 10.8390805 14.3660265 9.96609195 15.4662914 9.35344828 15.4662914 6.40517241 15.4662914 6.38390805 15.4662914 6.38103448 12.7966887 4.89482759"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-4)" opacity="0.9" points="7.83834437 6.38390805 7.83834437 6.38103448 6.30178808 5.52528736 5.16874172 4.89482759 2.49913907 6.38103448 2.49913907 6.38390805 2.49913907 6.40517241 2.49913907 9.35344828 3.6 9.96609195 5.16874172 10.8390805 5.16874172 9.09252874 5.16874172 7.89137931 5.16874172 7.87011494 6.30178808 7.23965517"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-5)" opacity="0.9" points="10.1270861 7.67298851 8.98271523 7.03563218 8.97139073 7.02931034 7.83834437 7.65977011 7.40145695 7.90344828 6.30178808 8.51551724 6.30178808 8.51896552 6.30178808 8.52183908 6.30178808 9.72298851 6.30178808 10.2086207 6.30178808 11.4373563 6.30178808 11.4850575 6.30178808 11.487931 7.40205298 12.1005747 7.83834437 12.3431034 8.97139073 12.9741379 8.98271523 12.9678161 10.1270861 12.3304598 10.5407285 12.1005747 11.6409934 11.487931 11.6409934 11.4718391 11.6409934 11.4247126 11.6409934 10.195977 11.6409934 9.73563218 11.6409934 8.53448276 11.6409934 8.51896552 11.6409934 8.51551724 10.5413245 7.90344828"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-6)" opacity="0.9" points="2.49913907 13.5505747 2.54503311 13.5764368 5.16874172 15.0367816 5.16874172 12.1155172 5.16874172 12.0678161 2.49913907 10.5816092"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-7)" opacity="0.9" points="12.7966887 12.1155172 12.7966887 15.0367816 15.4209934 13.5764368 15.4662914 13.5505747 15.4662914 10.5816092 12.7966887 12.0678161"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-8)" opacity="0.9" points="8.98271523 14.195977 8.97139073 14.2022989 7.81927152 13.5614943 6.30178808 12.716092 6.30178808 14.4063218 6.30178808 15.6856322 8.97139073 17.1718391 8.98271523 17.1649425 11.6409934 15.6856322 11.6409934 14.3936782 11.6409934 12.716092 10.1348344 13.5551724"></polygon>
+                <g id="Group" style="mix-blend-mode: soft-light;" fill="#FFFFFF">
+                    <polygon id="Path" points="8.98271523 0 0 5.00057471 0 5.01206897 1.44298013 5.81666667 1.44298013 5.80402299 8.98271523 1.60632184 16.5230464 5.80402299 16.5230464 5.81666667 17.9660265 5.01206897 17.9660265 5.00057471"></polygon>
+                    <polygon id="Path" points="8.98271523 5.80172414 11.6409934 4.32241379 11.6409934 4.31896552 8.98271523 2.83908046 8.97139073 2.83275862 6.30178808 4.31896552 6.30178808 4.32241379 8.97139073 5.80804598"></polygon>
+                    <polygon id="Path" points="11.6409934 5.53793103 10.1270861 6.38103448 10.1270861 6.38390805 11.6409934 7.22701149 12.7966887 7.87011494 15.4662914 6.38390805 15.4662914 6.38103448 12.7966887 4.89482759"></polygon>
+                    <polygon id="Path" points="7.83834437 6.38390805 7.83834437 6.38103448 6.30178808 5.52528736 5.16874172 4.89482759 2.49913907 6.38103448 2.49913907 6.38390805 5.16874172 7.87011494 6.30178808 7.23965517"></polygon>
+                    <polygon id="Path" points="10.1270861 7.67298851 8.98271523 7.03563218 8.97139073 7.02931034 7.83834437 7.65977011 7.40145695 7.90344828 6.30178808 8.51551724 6.30178808 8.51896552 7.81927152 9.3637931 8.96602649 10.0017241 8.97139073 10.0051724 8.9886755 9.9954023 10.1348344 9.35747126 11.6409934 8.51896552 11.6409934 8.51551724 10.5413245 7.90344828"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
